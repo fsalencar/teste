@@ -1,0 +1,25 @@
+{
+  "name": "projeto-node",
+  "version": "1.0.0",
+  "description": "Criando outro projeto node, via package manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fsalencar/Node2.git"
+  },
+  "keywords": [
+    "git",
+    "hub",
+    "node",
+    "top"
+  ],
+  "author": "Felipe Alencar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fsalencar/Node2/issues"
+  },
+  "homepage": "https://github.com/fsalencar/Node2#readme"
+}
